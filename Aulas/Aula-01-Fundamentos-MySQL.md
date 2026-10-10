@@ -456,7 +456,7 @@ Após executar o laboratório, pratique os seguintes comandos:
 
 ## 📚 Fonte da aula
 
-Conteúdo estruturado a partir do material fornecido para a **Aula 1 de Banco de Dados**, mantendo os comandos e exemplos SQL presentes no arquivo original. 
+Conteúdo estruturado a partir do material fornecido para a **Aula 1 de Banco de Dados**. 
 
 ---
 
